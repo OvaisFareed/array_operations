@@ -1,0 +1,27 @@
+body {
+    font-size: larger;
+    margin-left: 10%;
+}
+
+.menu {
+    list-style: none;
+}
+
+.menu li {
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+
+#arrayIndex {
+    width: 50px;
+}
+
+#updateFields {
+    width: 21%;
+    text-align: right;
+}
+
+#sliceFields{
+    width: 25%;
+    text-align: right;
+}
